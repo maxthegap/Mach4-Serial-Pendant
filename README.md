@@ -1,4 +1,4 @@
-Warning this is my personal fork that i and modifing for my use
+Warning this is my personal fork that i am modifing for my personal use
 
 
 # Mach4-Serial-Pendant
