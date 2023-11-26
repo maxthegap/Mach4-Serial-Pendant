@@ -1,3 +1,6 @@
+Warning this is my personal fork that i and modifing for my use
+
+
 # Mach4-Serial-Pendant
 CNC Control Pendant for Mach4, connected through USB Serial
 ​There are surprisingly few Pendants (CNC Machine, remote controls) for Mach4 and even fewer DIY projects. 
