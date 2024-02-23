@@ -160,9 +160,11 @@ function SerialDRO.ClosePort()
 	local RS = ""
 	local RV = 0
 	
-	p:close()
+	if(p~=nil) then --Test if pendent was connected if never conected do close other wise it throws an erron on exit
+			p:close()
+		end
+		
 	
-	--WriteRegister("SerialOpen", 0)
 	return ES
 end
 
